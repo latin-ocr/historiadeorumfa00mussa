@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiadeorumfa00mussa_0106.png"; bbox 0 0 2198 2960; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1 25 15 139">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1 25 15 139">
+     <span class='ocr_line' id='line_1_1' title="bbox 1 25 15 139; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 2 132 4 139; x_wconf 53' lang='lat'><em>*</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1 25 15 120; x_wconf 44' lang='grc' dir='ltr'><strong>κεκυ-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 6 139 15 169">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 6 139 15 169">
+     <span class='ocr_line' id='line_1_2' title="bbox 6 139 15 169; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 6 139 15 169; x_wconf 62' lang='lat'><strong>¹}</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 208 15 550">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 208 15 550">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 208 15 550; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 0 445 9 550; x_wconf 50' lang='grc' dir='ltr'><strong>““““Ἲ··</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2 386 10 432; x_wconf 72' lang='grc'><em>“““·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2 208 15 367; x_wconf 37' lang='grc' dir='ltr'><strong>«ἔην-τιὸ.»</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 776 19 1191">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 776 19 1191">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 776 15 1054; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 1 1007 15 1054; x_wconf 42' lang='lat'>...5-</span> <span class='ocrx_word' id='word_1_8' title='bbox 0 925 8 996; x_wconf 29' lang='grc' dir='ltr'><strong>«ηπ-ὴ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 0 818 9 913; x_wconf 44' lang='grc' dir='ltr'><strong>«Ἱ-Δ-η.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 0 776 7 806; x_wconf 65' lang='grc' dir='ltr'><strong>Δ.-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 2 1055 19 1191; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 3 1188 5 1191; x_wconf 95' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 4 1118 14 1151; x_wconf 61' lang='grc' dir='ltr'><strong>η-</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2 1055 19 1103; x_wconf 61' lang='lat'><strong>⁴*-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 530 335 1983 2531">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 530 335 1983 2531">
+     <span class='ocr_line' id='line_1_6' title="bbox 530 335 1983 2531; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 530 335 1983 2531; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
